@@ -10,7 +10,7 @@
 
 #### Bing
 * [Bing Webmaster Tools](https://www.bing.com/webmasters) - bing.com
-
+* [Keyword Planner tool](https://about.ads.microsoft.com/en-us/solutions/tools/keyword-planner)
 
 #### WordTracker
 * [WordTracker](https://www.wordtracker.com) - wordtracker.com | The best FREE alternative to the Keyword Planner. 
