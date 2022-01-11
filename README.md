@@ -14,3 +14,7 @@
 
 #### WordTracker
 * [WordTracker](https://www.wordtracker.com) - wordtracker.com | The best FREE alternative to the Keyword Planner. 
+
+## Learning
+### Google
+* [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/)
