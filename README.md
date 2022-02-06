@@ -17,6 +17,7 @@
 
 #### Sitemap
 * [XML Sitemap](https://www.xml-sitemaps.com/) - xml-sitemaps.com
+* [Manually Creating an XML Sitemap](https://blog.doteasy.com/2009/06/23/manually-creating-an-xml-sitemap/) - doteasy.com
 -----
 
 ## Learning
