@@ -15,6 +15,10 @@
 #### WordTracker
 * [WordTracker](https://www.wordtracker.com) - wordtracker.com | The best FREE alternative to the Keyword Planner. 
 
+#### Sitemap
+* [XML Sitemap](https://www.xml-sitemaps.com/) - xml-sitemaps.com
+-----
+
 ## Learning
 ### Google
 * [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage/)
