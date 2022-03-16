@@ -8,6 +8,7 @@
 * [Google Trends](https://trends.google.com/trends) - trends.google.com
 * [Tag Manager](https://tagmanager.google.com/) - tagmanager.google.com
 * [robots.txt Tester](https://www.google.com/webmasters/tools/robots-testing-tool)
+* [Google Search Console](https://search.google.com/search-console) - search.google.com
 
 #### Bing
 * [Bing Webmaster Tools](https://www.bing.com/webmasters) - bing.com
