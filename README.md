@@ -24,6 +24,9 @@
 #### robots.txt
 * [Merkle](https://technicalseo.com/tools/robots-txt/) - technicalseo.com
 
+-----
+## Articles
+* [12 Marketing Attribution Software and Tools for 2024](https://www.ruleranalytics.com/blog/analytics/marketing-attribution-software/)
 
 -----
 
